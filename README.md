@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pinkfluffyunicorns-dancingonrainbows
-- 👀 I’m interested in pink fluffy unicorns, especially when dancing on rainbows
-- 🌱 I’m currently learning HMTL, CSS, and JS
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: i'll determine that 
+- 👋 Hi, I’m Sarah!
+- 👀 I’m interested in Neuroscience and Biotechnology.
+- 🌱 I’m currently learning R.
+- 💞️ I’m looking to collaborate on neuroscience or biotechnology projects.
+- 📫 How to reach me: sarahelange02@gmail.com
 - ⚡ Fun fact: The real name for a hashtag is an octothorpe.
 - 
 <!---
